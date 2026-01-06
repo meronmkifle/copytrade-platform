@@ -392,17 +392,6 @@ services.AddApplicationInsightsTelemetry();
 - [ ] Integration with Interactive Brokers
 - [ ] Machine learning signal filtering
 
-## Support
-
-For questions or issues:
-- GitHub Issues: <your-repo/issues>
-- Email: support@yourplatform.com
-- Discord: <discord-link>
-
-## License
-
-[Your chosen license]
-
 ## Disclaimer
 
 This software is for educational purposes. Trading involves risk. Always test with demo accounts first. The authors are not responsible for any financial losses.
